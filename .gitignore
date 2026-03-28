@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Playwright / Browser
+/screenshots
+/user_data
+.auth_token
+
+# OS
+.DS_Store
