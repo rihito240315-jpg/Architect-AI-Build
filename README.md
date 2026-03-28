@@ -25,7 +25,7 @@ Frontend: Tailwind CSS, JavaScript, Socket.io
 📦 セットアップ方法
 1. クローンとライブラリのインストール
 Bash
-git clone https://github.com/YOUR_USERNAME/pc-architect-engine.git
+git clone https://github.com/rihito240315-jpg/Architect-AI-Build.git
 cd pc-architect-engine
 pip install -r requirements.txt
 playwright install chromium
